@@ -29,4 +29,4 @@ Me and a team of three of people analyzed which factors affect students' grades 
     │── listings_combined_residential.csv`
 
 ## Additional Information
-Skills: collaboration, data analysis.
+***Skills: collaboration, data analysis.***
