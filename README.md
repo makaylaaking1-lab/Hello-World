@@ -20,6 +20,7 @@ Me and a team of three of people analyzed which factors affect students' grades 
 
 ## Files Used
 - `StudentGrades.xlxs`
+- `listings_combined_residential.csv`
 
 ## How to run program
 ```
