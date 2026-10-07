@@ -27,7 +27,7 @@ Hello_World/
 └── 
     │── README.md
     │── StudentGrades.xlxs
-    │── listings_combined_residential.csv`
+    │── listings_combined_residential.csv
 ```
 
 ## Additional Information
