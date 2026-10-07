@@ -20,7 +20,7 @@ Me and a team of three of people analyzed which factors affect students' grades 
 
 ## Files Used
 - `StudentGrades.xlxs`
-- `listings_combined_residential.csv`
+- `week2_3_eda.py`
 
 ## How to run program
 ```
@@ -28,7 +28,7 @@ Hello_World/
 └── 
     │── README.md
     │── StudentGrades.xlxs
-    │── listings_combined_residential.csv
+    │── week2_3_eda.py
 ```
 
 ## Additional Information
