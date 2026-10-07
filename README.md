@@ -31,4 +31,4 @@ Hello_World/
 ```
 
 ## Additional Information
-***Skills: collaboration, data analysis.***
+***Skills: collaboration, data analysis, communication.***
